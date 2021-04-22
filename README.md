@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning about how computers work and about everything I can achieve with them.  
 - 🌱 I’m currently learning c++!
 - 💞️ I’m looking to collaborate on projects that help me learn.
-- 📫 How to reach me 
+- 📫 You can reach me at the moment by commenting.
 
 <!---
 VerneriH/VerneriH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
